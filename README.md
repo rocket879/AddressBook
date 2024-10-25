@@ -2,7 +2,7 @@
 미니 주소북 - 파이썬
 
 # 결과
-main.py 실행 결과
+main.py 실행 결과<br>
 ![image](https://github.com/user-attachments/assets/0643935f-132e-443c-b48c-d910fde0d8a4)
 
 # Dependency
